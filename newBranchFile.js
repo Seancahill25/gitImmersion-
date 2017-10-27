@@ -1,4 +1,4 @@
-var x= 14; 
-var y= 10;
+var x="new ";
+var y="branch";
 var z= x + y;
 console.log(z);
